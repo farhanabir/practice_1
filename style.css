@@ -1,0 +1,46 @@
+h1
+{
+	color: black;
+	text-align-last: center;
+}
+h2{
+	color: blue;
+	text-align: center;
+}
+h3
+{
+	color: red;
+	text-align: center;
+}
+h5{
+	color: blue;
+}
+#id1{
+	color: black;
+	text-align: left;
+
+}
+#img{
+
+	height: 300px;
+	width: 400px;
+}
+.class1{
+	color: red;
+}
+#img1{
+
+	height: 500px;
+	width: 600px;
+}
+#img2{
+
+	height: 500px;
+	width: 600px;
+}
+#copy{
+	text-align: center;
+}
+#info{
+	text-align: center;
+}
