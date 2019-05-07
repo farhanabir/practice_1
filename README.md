@@ -1,2 +1,2 @@
 # practice_1
-A simple website(home page only) with basic html css
+A simple website with basic html css
